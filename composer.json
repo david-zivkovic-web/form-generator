@@ -1,0 +1,20 @@
+{
+    "name": "davidzc/formgen",
+    "description": "Laraval admin form generator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Zivkovic",
+            "email": "david.zivkovic@cubes.rs"
+        }
+    ],
+    "keywords": ["formgen", "php", "composer", "laravel"],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "davidzc\\Formgen\\": "src/"
+        }
+    }
+}
